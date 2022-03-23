@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Figma Design Tool
+- 📫 How to reach me: dhshah.hm@gmail.com | LinkedIn - in/dhwani-shah-2209a6128/
+- ⚡ Fun fact: Most of my work is confidential, so if you are not able to see anything, well, email me and I will give you the access :)) 
+- 😄 Pronouns: She/Her/Hers
+
 <!--
 **Dhwanishah1502/Dhwanishah1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
